@@ -1,0 +1,13 @@
+ENVIE A PASTA NETLIFY-DROP
+
+Ela tem index.html DIRETAMENTE dentro dela, ao lado de card.html, camera.html, topo.html, fundo-tiktok.html e painel.html.
+
+1. No projeto thunderous-semolina-f15766, abra Deploys e encontre o envio manual / área de arrastar e soltar.
+2. Arraste a pasta NETLIFY-DROP do Explorador de Arquivos para essa área. Não arraste a pasta overlays inteira. Não envie como anexo no chat do agente da Netlify.
+3. Aguarde o novo deploy ser concluído e marcado como publicado.
+4. Abra o endereço principal do site. Deve aparecer “Seus overlays estão aqui”.
+5. Para TikTok, use o endereço completo da parte: /camera.html, /card.html, /topo.html ou /fundo-tiktok.html.
+
+Se você baixou o ZIP, extraia antes e arraste a pasta extraída que contém index.html. Evite uma pasta extra envolvendo os arquivos: abrindo a pasta enviada, index.html deve estar imediatamente visível.
+
+PAINEL: a página painel.html explica o funcionamento local. O painel funcional e o iniciador continuam em overlays/fps/toji-v1. Netlify Drop não executa servidor.cjs e o painel local não sincroniza com o site hospedado.
